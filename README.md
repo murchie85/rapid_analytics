@@ -13,7 +13,9 @@
  
 `Following?:` 2 
  
-`User URL?:` None ![image](None)
+`User URL?:` None 
+ 
+![image](None)
  
 `Location:`  
  
@@ -52,7 +54,9 @@ RT @sheldon718: She made them feel ashamed as if they where children.
  
 `Following?:` 19 
  
-`User URL?:` None ![image](None)
+`User URL?:` None 
+ 
+![image](None)
  
 `Location:`  
  
@@ -89,7 +93,9 @@ Today was filled with so much love. Everyone at the protest were so supportive a
  
 `Following?:` 4 
  
-`User URL?:` None ![image](None)
+`User URL?:` None 
+ 
+![image](None)
  
 `Location:`  
  
@@ -131,7 +137,9 @@ Don't give up!
  
 `Following?:` 3 
  
-`User URL?:` None ![image](None)
+`User URL?:` None 
+ 
+![image](None)
  
 `Location:`  
  
@@ -168,7 +176,9 @@ RT @melyy__G: Today, I experienced what everyone has been saying... the police b
  
 `Following?:` 41 
  
-`User URL?:` None ![image](None)
+`User URL?:` None 
+ 
+![image](None)
  
 `Location:`  
  
@@ -202,13 +212,15 @@ This unarmed black man was killed by Louisville’s police officers this morning
  
 `User signup date?:` Tue Jun 02 00:03:52 +0000 2020 
  
-`User Description?:` blinking in.. and out.. of existence. 
+`User Description?:` transparent but not gone | she/her | 🧛‍♀️ 
  
 `Followers?: `0 
  
 `Following?:` 66 
  
-`User URL?:` None ![image](None)
+`User URL?:` None 
+ 
+![image](None)
  
 `Location:` Varulia 
  
@@ -246,7 +258,9 @@ RT @frizzzyfern: this movement has shown me what kind of people we have surround
  
 `Following?:` 50 
  
-`User URL?:` None ![image](None)
+`User URL?:` None 
+ 
+![image](None)
  
 `Location:`  
  
@@ -284,7 +298,9 @@ RT @svgammy: twitter, do your thing and find out what their main is
  
 `Following?:` 0 
  
-`User URL?:` None ![image](None)
+`User URL?:` None 
+ 
+![image](None)
  
 `Location:`  
  
@@ -292,7 +308,7 @@ RT @svgammy: twitter, do your thing and find out what their main is
  
 `Profile image:` http://pbs.twimg.com/profile_images/1267174556801929217/bK2K0EtP_normal.jpg 
  
-`Number of tweets excluding replies:` 462 
+`Number of tweets excluding replies:` 465 
  
 
  
@@ -300,7 +316,7 @@ RT @svgammy: twitter, do your thing and find out what their main is
  
 ## User Top tweeted words 
  
-OrderedDict([('TRUMP', 44), ('PEOPLE', 20), ('PRESIDENT', 20), ('WHITE', 20), ('WAR', 18), ('DONALD', 16), ('PEACEFUL', 16), ('BLACK', 15), ('US', 14), ('ROSE', 14), ('MILITARY', 13), ('POLICE', 12), ('GARDEN', 12), ('MAN', 12), ('LAW', 11), ('AMERICAN', 10), ('THESE', 10), ('PROTESTORS', 10), ('BLACKLIVEMATTTERS', 10), ('AGAINST', 10)])
+OrderedDict([('TRUMP', 43), ('WHITE', 21), ('PRESIDENT', 20), ('PEOPLE', 20), ('WAR', 18), ('PEACEFUL', 17), ('DONALD', 16), ('US', 15), ('MILITARY', 15), ('BLACK', 15), ('ROSE', 14), ('POLICE', 13), ('GARDEN', 12), ('MAN', 12), ('AMERICAN', 11), ('LAW', 11), ('STATES', 10), ('THESE', 10), ('PROTESTORS', 10), ('BLACKLIVEMATTTERS', 10)])
  
 ## What this user tweeted
  
@@ -331,7 +347,9 @@ Don't give up!
  
 `Following?:` 4 
  
-`User URL?:` None ![image](None)
+`User URL?:` None 
+ 
+![image](None)
  
 `Location:`  
  
@@ -369,15 +387,17 @@ RT @keatrbl: PLEASE DONT FORGET TO CONTINUE USING THE HASHTAG
  
 `Following?:` 3 
  
-`User URL?:` None ![image](None)
+`User URL?:` None 
+ 
+![image](None)
  
 `Location:`  
  
-`Number of tweets extracted`  : 34 
+`Number of tweets extracted`  : 36 
  
 `Profile image:` http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png 
  
-`Number of tweets excluding replies:` 34 
+`Number of tweets excluding replies:` 36 
  
 
  
@@ -385,7 +405,7 @@ RT @keatrbl: PLEASE DONT FORGET TO CONTINUE USING THE HASHTAG
  
 ## User Top tweeted words 
  
-OrderedDict([('PROTESTS2020', 12), ('BLACKLIVESMATTER', 6), ('POLICE', 5), ('WHITE', 4), ('PROTEST', 4), ('WHERE', 3), ('TRUMP', 3), ('OFFICERS', 3), ('PROTESTERS', 3), ('HOUSE', 3), ('RT', 2), ('TOO', 2), ('MANY', 2), ('POWER', 2), ('FELLOW', 2), ('BLACKLIVEMATTTERS', 2), ('GEORGEFLOYD', 2), ('MAKE', 2), ('THESE', 2), ('FEEL', 2)])
+OrderedDict([('PROTESTS2020', 12), ('BLACKLIVESMATTER', 6), ('POLICE', 5), ('TRUMP', 4), ('WHITE', 4), ('PROTEST', 4), ('WHERE', 3), ('OFFICERS', 3), ('PROTESTERS', 3), ('HOUSE', 3), ('RT', 2), ('US', 2), ('DICTATORSHIP', 2), ('TOO', 2), ('MANY', 2), ('POWER', 2), ('FELLOW', 2), ('BLACKLIVEMATTTERS', 2), ('GEORGEFLOYD', 2), ('MAKE', 2)])
  
 ## What this user tweeted
  
