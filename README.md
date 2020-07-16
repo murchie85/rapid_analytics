@@ -1,5 +1,5 @@
 # MURCHIE85 TWITTER PROCESSING 
-&#x1F34E; **TOPIC = "#ThursdayThoughts"**
+&#x1F34E; **TOPIC = "#Hacked"**
 
 ## AUTOMATED RESEARCH SUMMARY
 
@@ -21,22 +21,21 @@
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| RT @SatlokChannel: God can forgive your sins - Yajur Veda Adhyay 8 Mantra 13Almighty God Kabir can forgive the sins of His worshipper. H… |
-| RT @scanme_tukslaw: https://t.co/FsJzT31U14 #TuksLaw 🌈  #ThursdayThoughts #thursdaymorning #ThursdayMotivation #thursdayvibes #Thursday #do… |
-| RT @head_of_toys: My favourite ayat. What is yours? #Quran  #ThursdayThoughts https://t.co/Agx9509xVP |
+| RT @DerekLaPorte: I'm tweeting for those who can't. Blue Checks peeps, dm me your super important tweets and I'll post them. #Hacked |
+| RT @mldiffley: In 2020, we’ve had:- WW3 scares- Kobe &amp; Gigi’s death- Australia burning- A global pandemic- All sports cancelled- UFO… |
+| RT @Rdcworld1Burner: Twitter’s Security #Hacked https://t.co/V2P1sIAuOQ |
 
-The most popular user is: **Nirmala42157045**
-<div class="alert alert-block alert-danger"> RT @SatlokChannel: Gita Adhyay 6 Shlok 47 -
-Amongst all theworshippers, he who worships me with full faith, due to the darkness of ignoran…</div>
+The most popular user is: **VijaySaini_1992**
+<div class="alert alert-block alert-danger"> RT @Rdcworld1Burner: Twitter’s Security #Hacked https://t.co/V2P1sIAuOQ</div>
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
-| #1 Most tweeted to  | **Gurmeetramrahim** |
-| #2 Most tweeted to  | **derasachasauda** |
-| #3 Most tweeted to  | **SatlokChannel** |
-| NewProfiles (less than 10 days) | 2.75%  |
-| Tweeters with < 10 followers  | 4.3%|
+| #1 Most tweeted to  | **Cryptanzee** |
+| #2 Most tweeted to  | **Rdcworld1Burner** |
+| #3 Most tweeted to  | **JLCauvin** |
+| NewProfiles (less than 10 days) | 1.35%  |
+| Tweeters with < 10 followers  | 9.15%|
 | Tweeters with > 1000000 followers  | 0.0%  |
 
 
@@ -46,233 +45,57 @@ Amongst all theworshippers, he who worships me with full faith, due to the dark
 
 | Popularity Rank  | Term |
 | ------------- | ------------- |
-| first  | **THURSDAYTHOUGHTS**  |
-| second  | **GOD**  |
-| third  | **MEDITATION** |
-| fourth  | **FORGIVE**  |
-| fifth  | **SINS**  |
+| first  | **HACKED**  |
+| second  | **TWITTER**  |
+| third  | **GOD** |
+| fourth  | **SECURITY**  |
+| fifth  | **KABIR**  |
 
 
 ## Twitter Bio Analysis![image](BIO.png)
 ### SENTIMENT ANALYSIS
 ![image](sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (20.0%) & **NEGATIVELY-SUBJECTIVE** (13.33%) **OBJECTIVE** (66.67%)
+VIEWS WERE : **SUBJECTIVE**  (20.0%) & **NEGATIVELY-SUBJECTIVE** (6.67%) **OBJECTIVE** (73.33%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|RT @PapaKiP19345550: #ThursdayThoughtsSaint Dr @Gurmeetramrahim ji always incorage to ''method of Meditation'' you want willpower at the e… |
+|RT @ramchrisali: I laughed for 10 minutes straight. 😂😂 #Hacked #Bitcoin https://t.co/6L8RNLctQp |
 
 ### MOST RETWEETED 
 
-| The most retweeted user is: **Nirmala42157045**  |
+| The most retweeted user is: **VijaySaini_1992**  |
 | ------------- |
-| RT @SatlokChannel: Gita Adhyay 6 Shlok 47 -Amongst all theworshippers, he who worships me with full faith, due to the darkness of ignoran… |
+| RT @Rdcworld1Burner: Twitter’s Security #Hacked https://t.co/V2P1sIAuOQ |
 
 # Potential Fake Accounts
  
-# SitaCho29421688USER INFO
-![image](http://pbs.twimg.com/profile_images/1276029304606871553/BY5QuzFW_normal.jpg)
+# ThugIlluminatiUSER INFO
+![image](http://pbs.twimg.com/profile_images/1280893471071465472/ljfqaaAN_normal.jpg)
  
-`User ScreenName:` SitaCho29421688 
+`User ScreenName:` ThugIlluminati 
  
-`User chosen Name:` Sita Choudhary 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Thu Jun 25 05:47:06 +0000 2020 
- 
-`User Description?:` भाजपा महिला मोर्चा मंडल अध्य्क्ष गुड़ामालानी , महामंत्री बालोतरा 
- 
-`Followers?: `10 
- 
-`Following?:` 50 
- 
-`User URL?:` None 
- 
-`Location:`  
- 
-`Number of tweets extracted`  : 5 
- 
-`Profile image:` http://pbs.twimg.com/profile_images/1276029304606871553/BY5QuzFW_normal.jpg 
- 
-`Number of tweets excluding replies:` 5 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**ने** 3 , **के** 3 , **है** 3 , **में** 2 , **शराब** 2 , **और** 2 , **की** 2 , **बात** 2 , **RT** 1 , **@DURGESHPATEL__:** 1 , **SELF-CONFIDENCE** 1 , **KEY** 1 , **PROBLEMS** 1 , **SOLUTIONS** 1 , **INSIDE!** 1 , **🙏सुप्रभात🙏** 1 , **THURSDAYTHOUGHT…RT** 1 , **@PVEERMARAM:** 1 , **भारतीय** 1 , **लोकतंत्र** 1 , 
- 
-## What this user tweeted
- 
-RT @DurgeshPatel__: Self-confidence is the key to all the problems. We get solutions from inside!
-              🙏सुप्रभात🙏
-#ThursdayThought…
- 
-# CookingVimiUSER INFO
-![image](http://pbs.twimg.com/profile_images/1274206506200649729/XkF_mT6Z_normal.jpg)
- 
-`User ScreenName:` CookingVimi 
- 
-`User chosen Name:` Vimi Cooking 
+`User chosen Name:` Ravish kumar China vale 
  
 `Is the User Verified?:` False 
  
-`User signup date?:` Sat Jun 20 05:02:30 +0000 2020 
- 
-`User Description?:` Making cooking easy & simple 
- 
-`Followers?: `3 
- 
-`Following?:` 16 
- 
-`User URL?:` None 
- 
-`Location:`  
- 
-`Number of tweets extracted`  : 5 
- 
-`Profile image:` http://pbs.twimg.com/profile_images/1274206506200649729/XkF_mT6Z_normal.jpg 
- 
-`Number of tweets excluding replies:` 5 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**RECIPE** 5 , **WATCH** 2 , **HTTPS://TCO/HLWJNSS8G6** 2 , **HOMEMADE…** 2 , **FULL** 1 , **RECIPE:** 1 , **VEGETARIAN** 1 , **THURSDAYTHOUGHTS** 1 , **SUBSCRIBE…** 1 , **HTTPS://TCO/UAMN2XMLLDHEALTHY** 1 , **MIXED** 1 , **VEG** 1 , **KURMA** 1 , **CLICK** 1 , **LINK** 1 , **:** 1 , **HTTPS://TCO/6CDEP5CHGAEASY** 1 , **INSTANT** 1 , **SWEET** 1 , **KARUMBU** 1 , 
- 
-## What this user tweeted
- 
-Watch the full recipe:
-https://t.co/hLwJnSs8g6
-
-#recipe 
-#vegetarian 
-#ThursdayThoughts 
-#subscribe… https://t.co/Uamn2XmlLD
- 
-# ashley_chhetriUSER INFO
-![image](http://pbs.twimg.com/profile_images/1276048864001306624/S1oQRI4D_normal.jpg)
- 
-`User ScreenName:` ashley_chhetri 
- 
-`User chosen Name:` Ashley Chhetri 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Thu Jun 25 07:05:06 +0000 2020 
- 
-`User Description?:` Goodness is another bitch that will let you fall into this evil world. 
- 
-`Followers?: `0 
- 
-`Following?:` 11 
- 
-`User URL?:` None 
- 
-`Location:`  
- 
-`Number of tweets extracted`  : 2 
- 
-`Profile image:` http://pbs.twimg.com/profile_images/1276048864001306624/S1oQRI4D_normal.jpg 
- 
-`Number of tweets excluding replies:` 2 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**DOES** 2 , **MATTER** 2 , **SUSHANTSINGHRAJPUT** 1 , **THURSDAYTHOUGHTS** 1 , **BOLLYWOODNEPOTISM** 1 , **LOVING** 1 , **THEN** 1 , **DAY** 1 , **YOU'LL** 1 , **REACH** 1 , **MOUNTAIN** 1 , **RESPE…** 1 , **HTTPS://TCO/UYWN4VGRISWHAT** 1 , **LEARNED** 1 , **SUSHANT** 1 , **SINGH** 1 , **RAJPUT** 1 , **ITS** 1 , **INTROVERT** 1 , **Y…** 1 , 
- 
-## What this user tweeted
- 
-#SushantSinghRajput  #ThursdayThoughts
-#bollywoodnepotism
-loving then one  day you'll reach the mountain  of  respe… https://t.co/UYwn4VgriS
- 
-# baani777_sidhuUSER INFO
-![image](http://pbs.twimg.com/profile_images/1275447492893532161/_EUnwWra_normal.jpg)
- 
-`User ScreenName:` baani777_sidhu 
- 
-`User chosen Name:` SidhuBaani777 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Sat Jun 20 08:25:57 +0000 2020 
+`User signup date?:` Wed Jul 08 15:54:00 +0000 2020 
  
 `User Description?:`  
  
-`Followers?: `6 
+`Followers?: `19 
  
-`Following?:` 15 
- 
-`User URL?:` None 
- 
-`Location:`  
- 
-`Number of tweets extracted`  : 169 
- 
-`Profile image:` http://pbs.twimg.com/profile_images/1275447492893532161/_EUnwWra_normal.jpg 
- 
-`Number of tweets excluding replies:` 169 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**@GURMEETRAMRAHIM** 91 , **@DERASACHASAUDA** 41 , **SAINT** 36 , **JI** 34 , **DR** 30 , **अनोखी_रीत** 22 , **MEDITATION** 19 , **INSAN** 19 , **@INSANBANI15867:** 18 , **THURSDAYTHOUGHTS** 18 , **@INSANVINNI:** 17 , **YOGA** 17 , **@STMSGFANSWORLD** 16 , **@LIFELESSONBYMSG:** 15 , **SINGH** 14 , **LIFE** 12 , **INTERNATIONALYOGADAY** 12 , **@INSAN_VITU:** 10 , **@STMSGFANSWORLD:** 10 , **है** 9 , 
- 
-## What this user tweeted
- 
-RT @InsanBani15867: Willpower power isn't something that gets handed out to someone. It is a skill you can develop through understanding an…RT @InsanBani15867: Keep your mind fresh and think positive #ThursdayThoughts is will power is not outside. 
-Raise you will power by medita…RT @InsanBani15867: If you want to erase all tensions and fears and you have no solution for it. #ThursdayThoughts the solution is given by…RT @InsanVinni: Keep your mind fresh and think positive , Don't take tension #ThursdayThoughts is will power is not outside. Raise you will…RT @InsanVinni: Meditation is only tonic to boost up will power..
-#ThursdayThoughts 
-To increase our thinking level and make our thinking p…RT @InsanVinni: Meditation is only solution of every problem 
-#ThursdayThoughts  Meditation is medicine. If self-confidence is within a hum…RT @monga_chetna: @StMSGfansworld @Gurmeetramrahim @derasachasauda #ThursdayThoughts 
-Yes right time of meditation is between 2 to 5 a.mRT @Kajal03636486: @StMSGfansworld @Gurmeetramrahim @derasachasauda Right I experienced this #ThursdayThoughtsRT @bhatti_usha: @StMSGfansworld @Gurmeetramrahim @derasachasauda Absolutely Right 
-#ThursdayThoughtsRT @Pooja_810: @StMSGfansworld @Gurmeetramrahim @derasachasauda Correct #ThursdayThoughtsRT @KomalIn33: @StMSGfansworld @Gurmeetramrahim @derasachasauda Thanks to Saint Dr @GurmeetRamRahim Singh ji insan for taught us pious meth…RT @NikitaAulakh: @StMSGfansworld @Gurmeetramrahim @derasachasauda Correct..Same I experienced as i do meditation in early morning.
-#Thursd…RT @Insan_Vitu: @StMSGfansworld @Gurmeetramrahim @derasachasauda #ThursdayThoughts absolutely rightRT @SureshShambh: @StMSGfansworld @Gurmeetramrahim @derasachasauda Really true.#ThursdayThoughtsRT @InsanVinni: @StMSGfansworld @Gurmeetramrahim @derasachasauda #ThursdayThoughts rightRT @SurinderInsan13: @StMSGfansworld @Dipansh85051188 @Gurmeetramrahim @derasachasauda Absolutely right. #ThursdayThoughts@StMSGfansworld @Gurmeetramrahim @derasachasauda #ThursdayThoughts one can gain self confidence by practicing meditation dailyRT @StMSGfansworld: With strong determination, one can win even the losing battle. And best way to strengthen determination is meditation
-@…@LifeLessonbyMSG #ThursdayThoughts meditation is treasure of happinessRT @LifeLessonbyMSG: Humans take birth with immense power that is hidden inside and can be unlocked only through God's worship.
-Millions ha…@LifeLessonbyMSG #ThursdayThoughts meditation can erase all tensionsRT @LifeLessonbyMSG: Today's human is surrounded by troubles. But he does not want to awaken the power which is hidden inside  and thus bec…@LifeLessonbyMSG #ThursdayThoughts v should do meditation regularlyRT @LifeLessonbyMSG: A negative thought can ruin our day so why not to start it with positive thoughts. Do yoga with meditation that will g…
- 
-# Ashutos09680408USER INFO
-![image](http://pbs.twimg.com/profile_images/1275749723693973505/j7qL8Z6M_normal.jpg)
- 
-`User ScreenName:` Ashutos09680408 
- 
-`User chosen Name:` Ashutosh Kale 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Tue Jun 23 03:38:50 +0000 2020 
- 
-`User Description?:` राष्ट्रहित सर्वोपरी🙏🙏🙏 
-भारतीय जनता पार्टी जिंदाबाद.............. 
- 
-`Followers?: `5 
- 
-`Following?:` 53 
+`Following?:` 61 
  
 `User URL?:` None 
  
 `Location:`  
  
-`Number of tweets extracted`  : 155 
+`Number of tweets extracted`  : 199 
  
-`Profile image:` http://pbs.twimg.com/profile_images/1275749723693973505/j7qL8Z6M_normal.jpg 
+`Profile image:` http://pbs.twimg.com/profile_images/1280893471071465472/ljfqaaAN_normal.jpg 
  
-`Number of tweets excluding replies:` 155 
+`Number of tweets excluding replies:` 1312 
  
 
  
@@ -280,122 +103,38 @@ Millions ha…@LifeLessonbyMSG #ThursdayThoughts meditation can erase all tensio
  
 ## User Top tweeted words 
  
-**के** 33 , **की** 30 , **में** 21 , **है** 20 , **से** 19 , **का** 19 , **और** 17 , **श्री** 15 , **को** 15 , **@ARNAB5222:** 12 , **@HINDUSADHVI:** 12 , **जो** 11 , **पर** 11 , **राम** 10 , **साथ** 10 , **@NARENDRAMODI** 10 , **चीन** 9 , **आज** 9 , **जय** 8 , **JAY** 8 , 
+**के** 26 , **को** 23 , **की** 22 , **में** 21 , **जी** 16 , **INDIA** 14 , **है** 14 , **BJP** 13 , **का** 12 , **से** 11 , **और** 11 , **@NARENDRAMODI:** 11 , **CONGRESS** 11 , **आज** 10 , **@RISHIBAGREE:** 10 , **DAY** 10 , **PARTY** 10 , **ने** 9 , **@ANI** 9 , **SKILL** 9 , 
  
 ## What this user tweeted
  
-RT @sanghaviharsh: All you have is "NOW"
-
-#ThursdayThoughts https://t.co/TdDKn4bczD
+RT @TheZaiduLeaks: Being a Pakistani I can assure you the hacker who #Hacked Twitter accounts of all prominent personalities is not a Pakis…
  
-# Pretty8BeautyUSER INFO
-![image](http://pbs.twimg.com/profile_images/1275828632963989508/sQ7u1IGO_normal.jpg)
+# PawanKu01528879USER INFO
+![image](http://pbs.twimg.com/profile_images/1283417732164149248/8JKcXuUf_normal.jpg)
  
-`User ScreenName:` Pretty8Beauty 
+`User ScreenName:` PawanKu01528879 
  
-`User chosen Name:` Mansi 
+`User chosen Name:` Pawan Kumar 
  
 `Is the User Verified?:` False 
  
-`User signup date?:` Wed Jun 24 16:20:27 +0000 2020 
+`User signup date?:` Tue Jul 14 01:41:09 +0000 2020 
  
-`User Description?:`  
+`User Description?:` Bhakti 
  
-`Followers?: `11 
+`Followers?: `4 
  
-`Following?:` 23 
+`Following?:` 82 
  
 `User URL?:` None 
  
 `Location:`  
- 
-`Number of tweets extracted`  : 171 
- 
-`Profile image:` http://pbs.twimg.com/profile_images/1275828632963989508/sQ7u1IGO_normal.jpg 
- 
-`Number of tweets excluding replies:` 171 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**TERIGALI** 92 , **TERIGALIWITHASIM** 51 , **TERIGALIWITHASIMRT** 50 , **@VEDU888888:** 37 , **@IMREALASIM** 34 , **@TELLYTALKINDIA** 21 , **TERIGALIRT** 18 , **@SONMISHR:** 15 , **KEEP** 14 , **@FIZZY_MUNCHKIN:** 13 , **@I_SANAM_:** 13 , **TRENDING** 13 , **GUYS** 12 , **@__JAANVIBACKUP_:** 12 , **RT** 11 , **@GURUOFFICIAL** 11 , **SONG** 10 , **@SONMISHR** 10 , **@FIZZY_MUNCHKIN** 10 , **@KRYSIMLOVE:** 10 , 
- 
-## What this user tweeted
- 
-RT @sonmishr: Good morning! Wishing you all a great and peaceful day filled with laughter and positivity 💕💕💞
-
-#ThursdayThoughts
-#thursdaymo…
- 
-# mkmart_USER INFO
-![image](http://pbs.twimg.com/profile_images/1272634419380129794/IkQokEE7_normal.jpg)
- 
-`User ScreenName:` mkmart_ 
- 
-`User chosen Name:` Mk Mart - Vegetable, Fruit & More 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Mon Jun 15 20:55:19 +0000 2020 
- 
-`User Description?:` MK Mart is family owned and family run business with many years experience in the industry. We are quality assured and supply all fruit and vegetable products. 
- 
-`Followers?: `1 
- 
-`Following?:` 0 
- 
-`User URL?:` https://t.co/9IdYJ7ZeXb 
- 
-`Location:` Lahore, Pakistan 
- 
-`Number of tweets extracted`  : 5 
- 
-`Profile image:` http://pbs.twimg.com/profile_images/1272634419380129794/IkQokEE7_normal.jpg 
- 
-`Number of tweets excluding replies:` 5 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**FREE** 5 , **HOME** 5 , **DELIVER** 3 , **DELIVERY** 3 , **FRESH** 3 , **GHAR** 2 , **LAHORE** 2 , **FRUITS** 2 , **VEGETABLES** 2 , **HEALTHY** 2 , **GARMI** 1 , **KY** 1 , **MOOSAM** 1 , **MAIN** 1 , **RAHIN** 1 , **HUM** 1 , **KARAIN** 1 , **GY** 1 , **TAZA** 1 , **PHAL** 1 , 
- 
-## What this user tweeted
- 
-Is Garmi ky moosam main ghar rahin, hum deliver karain gy Taza Phal or sabzian apky ghar.
-Free Home Deliver All Ove… https://t.co/vPn9L37Cj5
- 
-# SinghAkshmaUSER INFO
-![image](http://pbs.twimg.com/profile_images/1275087578564198425/JVQaTuMj_normal.jpg)
- 
-`User ScreenName:` SinghAkshma 
- 
-`User chosen Name:` Akshma Singh 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Sat Jun 20 08:14:51 +0000 2020 
- 
-`User Description?:` मानव जीवन का सदुपयोग करो। मानव जीवन का सदुपयोग सतभक्ति करने से होगा। ❤🙏 
- 
-`Followers?: `30 
- 
-`Following?:` 30 
- 
-`User URL?:` None 
- 
-`Location:` Haryana, India 
  
 `Number of tweets extracted`  : 200 
  
-`Profile image:` http://pbs.twimg.com/profile_images/1275087578564198425/JVQaTuMj_normal.jpg 
+`Profile image:` http://pbs.twimg.com/profile_images/1283417732164149248/8JKcXuUf_normal.jpg 
  
-`Number of tweets excluding replies:` 925 
+`Number of tweets excluding replies:` 249 
  
 
  
@@ -403,73 +142,44 @@ Free Home Deliver All Ove… https://t.co/vPn9L37Cj5
  
 ## User Top tweeted words 
  
-**GODMORNINGTHURSDAY** 92 , **REALSATGURU_SAINTRAMPALJI** 88 , **TRUE** 60 , **SAINT** 55 , **GOD** 33 , **COMPLETE** 32 , **JI** 32 , **RAMPAL** 27 , **MAHARAJ** 26 , **SATGURU** 26 , **WATCH** 24 , **WORSHIP** 23 , **संत** 22 , **KNOWLEDGE** 20 , **KABIR** 19 , **@SINGHAKSHMA:** 18 , **SALVATION** 17 , **GURU** 17 , **है** 15 , **MUST** 15 , 
+**GOD** 134 , **KABIR** 92 , **SUPREME** 70 , **CREATOR** 29 , **COMPLETE** 22 , **@PUSHPINDER0311:** 21 , **HOLY** 21 , **BIBLE** 20 , **SAINTRAMPALJI** 18 , **UNIVERSES** 18 , **EVEN** 17 , **@REALDONALDTRUMP** 17 , **BIRTH** 16 , **KNOWLEDGE** 15 , **FATHER** 15 , **KAVIRDEV** 14 , **(SUPREME** 14 , **KABIR)** 14 , **PRIOR** 14 , **ANANT** 14 , 
  
 ## What this user tweeted
  
-RT @ShaluDasi: #godmorningthursday
-The identification of God.
-Is been cleared by saint RampalJi maharaj.
-Watch satsang on sadhna TV 7 :30 p…RT @YugankSingh13: #ThursdayThoughts
-God can forgive your sins - 
-Yajur Veda Adhyay 8 Mantra 13
+RT @NaveenK51586413: God can increase the life span of a human being and cure incurable diseases - Rigveda Mandal 10 Sukt 161 Mantra 2, 5,…RT @NaveenK51586413: #Hacked
+Jesus Christ was the son of God. Kabir Saheb, the Supreme God, is the father of all, the originator. The same…RT @pushpinder0311: A human being after acquiring the refuge of a true master or Guru must worship the true God.
 
-Almighty God Kabir can forgive the sins of…RT @RISHABHBAGORA99: "Keep your Eyes on your Goals"
-
-#goodmorning 
-#ThursdayThoughts 
-#GodMorningThursdayRT @MKverma_Mkverma: @SatlokChannel #RealSatGuru_SaintRampalJi
-If one wants to become familiar with the advantage of true worship then he m…RT @GadgetsDunya: Tag Someone who is interested in Gadgets and Inventions
-
-Follow me ==&gt; @GadgetsDunya
-
-#gadgets #gadgetsdunya #tech #Pakis…RT @Sheeli14: #ThursdayThoughts
-Supreme God Kabir or Kavir dev is the giver of complete happiness and the enemy of sins. He is the giver of…RT @BalbirS01002956: #godmorningthursday
-The identification of God.
-Is been cleared by saint RampalJi maharaj.
-Watch satsang on sadhna TV 7…RT @ShaktiS13564797: #ThursdayThoughts
-#GodMorningThursday
-
-WORLD SAVIOR SAINT RAMPAL JI
-👇👇
-A prophecy in 7th September 1971 by Babura Jaya…RT @Santosh71911091: #GodMorningThursday
-He is the only Saint who is giving guarantee to give salvation to the devotees. 
-Sant rampalji mah…RT @BalbirS01002956: #ThursdayThoughts
-#GodMorningThursday
-The way to identify God has been cleared.
-👁️👁️ https://t.co/rVgy9K7m4JRT @ShaktiS13564797: #godmorningthursday
-The identification of God.
-Is been cleared by saint RampalJi maharaj.
-Watch satsang on sadhna TV 7…RT @ShaktiS13564797: #GodMorningThursday
-#ThursdayThoughts
-The true Satguru is the one who can get rid of birth and death by giving authent…
+- Supreme Saint Rampal Ji…RT @pushpinder0311: #hacked
+Everyone should worship the true God Kabir for eternal peace and happiness.
+- Saint Rampal Ji Maharaj
+#SaintRam…
  
-# SibfordSUSER INFO
-![image](http://pbs.twimg.com/profile_images/1275725465161007104/l73t6xeX_normal.jpg)
+# Balramj59775178USER INFO
+![image](http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png)
  
-`User ScreenName:` SibfordS 
+`User ScreenName:` Balramj59775178 
  
-`User chosen Name:` SibfordOldScholars 
+`User chosen Name:` Balram jangid 
  
 `Is the User Verified?:` False 
  
-`User signup date?:` Wed Jun 24 09:38:21 +0000 2020 
+`User signup date?:` Mon Jul 06 13:10:23 +0000 2020 
  
-`User Description?:` Official page of Sibford Old Scholars Association - we aim to please and bring joy! 
+`User Description?:`  
  
-`Followers?: `13 
+`Followers?: `0 
  
-`Following?:` 76 
+`Following?:` 99 
  
 `User URL?:` None 
  
 `Location:`  
  
-`Number of tweets extracted`  : 5 
+`Number of tweets extracted`  : 29 
  
-`Profile image:` http://pbs.twimg.com/profile_images/1275725465161007104/l73t6xeX_normal.jpg 
+`Profile image:` http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png 
  
-`Number of tweets excluding replies:` 5 
+`Number of tweets excluding replies:` 29 
  
 
  
@@ -477,28 +187,427 @@ The true Satguru is the one who can get rid of birth and death by giving authent
  
 ## User Top tweeted words 
  
-**EYES** 3 , **GOOD** 2 , **@SIBFORDSCHOOL** 2 , **RT** 1 , **@NTCHASTLETON:** 1 , **ELSE** 1 , **FAILS** 1 , **FOLLOW** 1 , **DIRECTIONS** 1 , **@SOUTHEASTNT** 1 , **@SIGNSTRUST** 1 , **THURSDAYTHOUGHTS** 1 , **HTTPS://TCO/TWA9KVW9YWFLASHBACK** 1 , **DETENTIONS🙄** 1 , **WORK** 1 , **TEAM** 1 , **👍😉💙** 1 , **HTTPS://TCO/1MIDOERTMZTHAT'S** 1 , **HOT** 1 , **FLOCK** 1 , 
+**के** 8 , **SIR** 5 , **REVOKE_MODIFIED_UFM** 4 , **NTPC** 4 , **UFM** 3 , **TIME** 3 , **@CAREERWILLAPP:** 3 , **EXAM** 3 , **MATTERS** 3 , **🙏** 3 , **YOUTHDEMANNDSEMPLOYNENT** 3 , **NTPCEXAMSMATTERS** 3 , **SSC_UFM_DECISION** 3 , **EXAMS2020** 3 , **@PMOINDIA** 3 , **@PIYUSHGOYAL** 3 , **से** 3 , **पर** 3 , **एक** 3 , **@EGOPALVERMA:** 3 , 
  
 ## What this user tweeted
  
-RT @NTChastleton: When all else fails, follow the directions @southeastNT @SignsTrust #ThursdayThoughts https://t.co/TWA9KVw9Yw
+RT @utkarshkum10: Verified                                   You with
+Accounts.                               0 followers
+#hacked #Bitcoin…
  
-# AnimalazorUSER INFO
-![image](http://pbs.twimg.com/profile_images/1275853278153236482/fETLG69-_normal.jpg)
+# iwasboredasfUSER INFO
+![image](http://pbs.twimg.com/profile_images/1281716219863724035/CtnEz7Dn_normal.jpg)
  
-`User ScreenName:` Animalazor 
+`User ScreenName:` iwasboredasf 
  
-`User chosen Name:` Animalazor 
+`User chosen Name:` elie 
  
 `Is the User Verified?:` False 
  
-`User signup date?:` Thu Jun 18 13:06:45 +0000 2020 
+`User signup date?:` Fri Jul 10 22:10:36 +0000 2020 
  
-`User Description?:` Animals Word 🐶🐱🐒🐼🐾 
+`User Description?:` life bruh 
  
 `Followers?: `0 
  
-`Following?:` 0 
+`Following?:` 6 
+ 
+`User URL?:` None 
+ 
+`Location:`  
+ 
+`Number of tweets extracted`  : 38 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1281716219863724035/CtnEz7Dn_normal.jpg 
+ 
+`Number of tweets excluding replies:` 38 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**DON’T** 9 , **SNOOP** 5 , **DONT** 5 , **GIVE** 5 , **EMINEM** 4 , **STOP** 4 , **FUCK** 4 , **EVERYONE** 4 , **NAYA** 4 , **JADA** 4 , **I’M** 3 , **DMX** 3 , **DOGG** 3 , **TOO** 3 , **SAY** 3 , **BITCH** 3 , **BEHIND** 2 , **HIT** 2 , **PULLING** 2 , **VS** 2 , 
+ 
+## What this user tweeted
+ 
+We all know who’s behind these twitter hacks 
+ #Hacked https://t.co/ozq1TsYM0T
+ 
+# timpieslimpieUSER INFO
+![image](http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png)
+ 
+`User ScreenName:` timpieslimpie 
+ 
+`User chosen Name:` tim 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Sat Jul 11 23:49:33 +0000 2020 
+ 
+`User Description?:` 16 
+ 
+`Followers?: `2 
+ 
+`Following?:` 26 
+ 
+`User URL?:` None 
+ 
+`Location:`  
+ 
+`Number of tweets extracted`  : 9 
+ 
+`Profile image:` http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png 
+ 
+`Number of tweets excluding replies:` 9 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**IK** 3 , **NIET** 2 , **ECHT** 2 , **@JESZHERO** 1 , **SORRY** 1 , **HTTPS://TCO/MC7GTELPPBRT** 1 , **@UTKARSHKUM10:** 1 , **VERIFIED** 1 , **ACCOUNTS** 1 , **0** 1 , **FOLLOWERS** 1 , **HACKED** 1 , **BITCOIN…@HEIIOPAPI** 1 , **'DAT'** 1 , **TOCH** 1 , **GEEN** 1 , **BUNGEE** 1 , **JUMPEN** 1 , **DIT** 1 , **WAARSCHIJNLIJK** 1 , 
+ 
+## What this user tweeted
+ 
+RT @utkarshkum10: Verified                                   You with
+Accounts.                               0 followers
+#hacked #Bitcoin…
+ 
+# SeemaYa55701199USER INFO
+![image](http://pbs.twimg.com/profile_images/1283204437444456449/sqgPM6Ao_normal.jpg)
+ 
+`User ScreenName:` SeemaYa55701199 
+ 
+`User chosen Name:` Navodita Raj 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Wed Jul 15 00:57:33 +0000 2020 
+ 
+`User Description?:` Navodita 
+ 
+`Followers?: `4 
+ 
+`Following?:` 17 
+ 
+`User URL?:` None 
+ 
+`Location:`  
+ 
+`Number of tweets extracted`  : 63 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1283204437444456449/sqgPM6Ao_normal.jpg 
+ 
+`Number of tweets excluding replies:` 63 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**कबीर** 38 , **परमात्मा** 34 , **के** 28 , **@SEEMAYA55701199:** 25 , **GODKABIR_OCEANOFHAPPINESS** 20 , **है** 17 , **को** 17 , **में** 16 , **GOD** 13 , **ने** 13 , **पाप** 12 , **का** 10 , **और** 10 , **AM]** 9 , **+91** 9 , **94243** 9 , **42872:** 9 , **सुक्त** 9 , **की** 9 , **5** 8 , 
+ 
+## What this user tweeted
+ 
+RT @SeemaYa55701199: [7/16, 5:22 AM] +91 94243 42872: A human being after acquiring the refuge of a true master or Guru must worship the tr…RT @SEEMADE26035685: [7/16, 5:22 AM] +91 94243 42872: By worshipping the supreme God Kabir one attains complete salvation. Without salvatio…
+ 
+# DrewJae9339USER INFO
+![image](http://pbs.twimg.com/profile_images/1281059377919729664/P0anoqHz_normal.jpg)
+ 
+`User ScreenName:` DrewJae9339 
+ 
+`User chosen Name:` Andrew Jae 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Wed Jul 08 01:36:02 +0000 2020 
+ 
+`User Description?:` 19//FtM//(He/His) Pre-T bc of family situation, so no hate pls!!! 
+ 
+`Followers?: `0 
+ 
+`Following?:` 8 
+ 
+`User URL?:` None 
+ 
+`Location:`  
+ 
+`Number of tweets extracted`  : 80 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1281059377919729664/P0anoqHz_normal.jpg 
+ 
+`Number of tweets excluding replies:` 80 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**@NOAHFINNADAMS:** 35 , **@DANIELHOWELL:** 10 , **I’M** 8 , **PEOPLE** 7 , **COVID** 7 , **TOO** 6 , **@NOTCORRY:** 5 , **@ADMIREPHIL:** 4 , **SOME** 4 , **DON’T** 4 , **BEING** 4 , **HE’S** 4 , **HEPPY** 4 , **RT** 3 , **U** 3 , **REALLY** 3 , **OH** 3 , **MAKE** 2 , **LMAO** 2 , **MADE** 2 , 
+ 
+## What this user tweeted
+ 
+RT @lil_Bulgi: Nahh u can't make this up 😂🤣#Hacked #twitterhacked https://t.co/wTLyZhzrbz
+ 
+# Bhavesh78581975USER INFO
+![image](http://pbs.twimg.com/profile_images/1281770607705612290/LrNSxXJ2_normal.jpg)
+ 
+`User ScreenName:` Bhavesh78581975 
+ 
+`User chosen Name:` Bhavesh Darji 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Tue Jul 07 16:36:43 +0000 2020 
+ 
+`User Description?:` Happy 
+ 
+`Followers?: `36 
+ 
+`Following?:` 26 
+ 
+`User URL?:` None 
+ 
+`Location:`  
+ 
+`Number of tweets extracted`  : 200 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1281770607705612290/LrNSxXJ2_normal.jpg 
+ 
+`Number of tweets excluding replies:` 2840 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**4200GUJARAT** 174 , **@IMBHUPENDRASINH** 42 , **4200** 41 , **છે** 40 , **@NITINBHAI_PATEL** 36 , **@CMOGUJ** 35 , **@VIJAYRUPANIBJP** 26 , **4200GUJARATRT** 24 , **PAY** 22 , **તો** 21 , **@PMOINDIA** 20 , **નથી** 20 , **પણ** 18 , **ONLY4200** 16 , **પે** 16 , **ને** 16 , **માટે** 16 , **શિક્ષકો** 16 , **એ** 15 , **હક** 15 , 
+ 
+## What this user tweeted
+ 
+RT @JKomal78: Barack Obama, Joe Biden, Elon Musk, Apple, and others hacked in unprecedented Twitter attack 
+#Hacked 
+#Hackers 
+#twitterhack…
+ 
+# Jay2NayUSER INFO
+![image](http://pbs.twimg.com/profile_images/1282765502432137217/iiK7XK-v_normal.jpg)
+ 
+`User ScreenName:` Jay2Nay 
+ 
+`User chosen Name:` annissa morgan 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Mon Jul 13 11:40:04 +0000 2020 
+ 
+`User Description?:`  
+ 
+`Followers?: `2 
+ 
+`Following?:` 60 
+ 
+`User URL?:` None 
+ 
+`Location:`  
+ 
+`Number of tweets extracted`  : 4 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1282765502432137217/iiK7XK-v_normal.jpg 
+ 
+`Number of tweets excluding replies:` 4 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**TRAVEL** 2 , **RT** 1 , **@AVA:** 1 , **EVERYONE** 1 , **CARES** 1 , **JUSTICE** 1 , **DIGNITY** 1 , **HEALTH** 1 , **SAFETY** 1 , **ISN’T** 1 , **FILLING** 1 , **TIMELINES** 1 , **WORRISOME** 1 , **WE’LL…RT** 1 , **@RDCWORLD1BURNER:** 1 , **TWITTER’S** 1 , **SECURITY** 1 , **HACKED** 1 , **HTTPS://TCO/V2P1SIAUOQRT** 1 , **@CNTRAVELER:** 1 , 
+ 
+## What this user tweeted
+ 
+RT @Rdcworld1Burner: Twitter’s Security #Hacked https://t.co/V2P1sIAuOQ
+ 
+# GMaxwasUSER INFO
+![image](http://pbs.twimg.com/profile_images/1283525081034039306/Cbi9CwvS_normal.jpg)
+ 
+`User ScreenName:` GMaxwas 
+ 
+`User chosen Name:` GMaxwasMossad 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Thu Jul 09 15:26:37 +0000 2020 
+ 
+`User Description?:`  
+ 
+`Followers?: `5 
+ 
+`Following?:` 109 
+ 
+`User URL?:` None 
+ 
+`Location:`  
+ 
+`Number of tweets extracted`  : 198 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1283525081034039306/Cbi9CwvS_normal.jpg 
+ 
+`Number of tweets excluding replies:` 472 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**TWITTER** 33 , **HACKED** 15 , **@COMFORTABLYSMUG:** 14 , **@ZEROHEDGE:** 13 , **WUHAN** 10 , **CHINA** 9 , **MARCH** 9 , **SAYING** 8 , **@JACK** 8 , **TRUMP** 8 , **LINCOLN** 8 , **PROJECT** 8 , **VIRUS** 7 , **SECURITY** 7 , **BIDEN** 7 , **ACCOUNT** 7 , **PANEL** 6 , **@CNBC:** 6 , **PEOPLE** 6 , **GREAT** 6 , 
+ 
+## What this user tweeted
+ 
+RT @Cryptanzee: Twitter security be like #hacked https://t.co/FxW6xbHdcvRT @lottielilx: me going to sleep knowing i have two followers so i won’t get #hacked https://t.co/3QdAB188TM
+ 
+# QuiteHackerUSER INFO
+![image](http://pbs.twimg.com/profile_images/1280364750300315648/6Ikz-n7c_normal.jpg)
+ 
+`User ScreenName:` QuiteHacker 
+ 
+`User chosen Name:` Cyber Security & Hacking News 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Tue Jul 07 04:55:01 +0000 2020 
+ 
+`User Description?:` 📱N̶o̶b̶o̶d̶y̶ ̶&̶ ̶N̶o̶t̶h̶i̶n̶g̶ ̶i̶s̶ ̶S̶e̶c̶u̶r̶e̶ 💻 
+ 
+`Followers?: `9 
+ 
+`Following?:` 4 
+ 
+`User URL?:` None 
+ 
+`Location:`  
+ 
+`Number of tweets extracted`  : 35 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1280364750300315648/6Ikz-n7c_normal.jpg 
+ 
+`Number of tweets excluding replies:` 34 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**:** 8 , **APP** 6 , **MALWARE** 5 , **USERS** 5 , **DATA** 5 , **SCAM** 5 , **FULL** 5 , **STORY** 5 , **TIKTOK** 4 , **SECURITY** 4 , **FOUND** 4 , **APPS** 4 , **SOURCE:** 4 , **SOURCE** 4 , **BREACH** 3 , **HACKED** 3 , **WINDOWS** 3 , **BANKING** 3 , **TROJAN** 3 , **ATTACK** 3 , 
+ 
+## What this user tweeted
+ 
+Twitter witnessed a major breach with accounts of several people getting hacked like @BarackObama @JoeBiden… https://t.co/rLUjTVYAty
+ 
+# AceIsamarUSER INFO
+![image](http://pbs.twimg.com/profile_images/1283424828503007233/HEo6BSG4_normal.jpg)
+ 
+`User ScreenName:` AceIsamar 
+ 
+`User chosen Name:` underrated 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Wed Jul 15 14:33:11 +0000 2020 
+ 
+`User Description?:` Twitch - ace_isamar Games: Apex, Warzone, need for speen, friday the 13th and more 
+ 
+`Followers?: `4 
+ 
+`Following?:` 5 
+ 
+`User URL?:` https://t.co/izvPJZiF9x 
+ 
+`Location:`  
+ 
+`Number of tweets extracted`  : 7 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1283424828503007233/HEo6BSG4_normal.jpg 
+ 
+`Number of tweets excluding replies:` 7 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**WARZONE** 2 , **STILL** 2 , **@TWITCHPROMOTERS** 1 , **APEX** 1 , **NEED** 1 , **SPEED** 1 , **LAST** 1 , **US** 1 , **HTTPS://TCO/UZ8HFMK5FLNO** 1 , **TIME** 1 , **REVIVE** 1 , **!** 1 , **HACKED** 1 , **TWITCHSTREAMERS** 1 , **CALLOFDUTY** 1 , **HTTPS://TCO/ZB1WKQCIHSRT** 1 , **@8_8_8C:** 1 , **🎉✨** 1 , **HTTPS://TCO/SJUDRDLK7YRT** 1 , **@CAITYSECRET:** 1 , 
+ 
+## What this user tweeted
+ 
+No time for revive ! 
+#warzone #Hacked #TwitchStreamers #CallOfDuty https://t.co/Zb1wKqcIHS
+ 
+# Ajinkya48422017USER INFO
+![image](http://pbs.twimg.com/profile_images/1283025884111237120/34StlFzZ_normal.jpg)
+ 
+`User ScreenName:` Ajinkya48422017 
+ 
+`User chosen Name:` Ajinkya Bandwear 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Tue Jul 14 13:09:18 +0000 2020 
+ 
+`User Description?:` November 14 
+ 
+`Followers?: `7 
+ 
+`Following?:` 588 
+ 
+`User URL?:` None 
+ 
+`Location:`  
+ 
+`Number of tweets extracted`  : 200 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1283025884111237120/34StlFzZ_normal.jpg 
+ 
+`Number of tweets excluding replies:` 361 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**के** 74 , **में** 47 , **की** 44 , **को** 36 , **से** 32 , **पर** 32 , **है** 29 , **का** 22 , **और** 19 , **ने** 15 , **:** 15 , **साथ** 14 , **@ABPNEWS:** 14 , **भी** 14 , **कर** 13 , **ये** 13 , **@ZEENEWS:** 13 , **@INDIATVHINDI:** 13 , **लिए** 12 , **हो** 12 , 
+ 
+## What this user tweeted
+ 
+RT @nidhiindiatv: God! What's wrong with Twitter? Such a big security lapse. Verified Twitter accounts of Barack Obama, Joe Biden, Mike Blo…
+ 
+# Drew35849241USER INFO
+![image](http://pbs.twimg.com/profile_images/1283581148019527683/1iJEX2dN_normal.jpg)
+ 
+`User ScreenName:` Drew35849241 
+ 
+`User chosen Name:` BruhMan 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Thu Jul 16 01:55:54 +0000 2020 
+ 
+`User Description?:`  
+ 
+`Followers?: `0 
+ 
+`Following?:` 3 
  
 `User URL?:` None 
  
@@ -506,7 +615,7 @@ RT @NTChastleton: When all else fails, follow the directions @southeastNT @Signs
  
 `Number of tweets extracted`  : 1 
  
-`Profile image:` http://pbs.twimg.com/profile_images/1275853278153236482/fETLG69-_normal.jpg 
+`Profile image:` http://pbs.twimg.com/profile_images/1283581148019527683/1iJEX2dN_normal.jpg 
  
 `Number of tweets excluding replies:` 1 
  
@@ -516,39 +625,38 @@ RT @NTChastleton: When all else fails, follow the directions @southeastNT @Signs
  
 ## User Top tweeted words 
  
-**SCARED** 1 , **🤭🤭** 1 , **ANIMAL** 1 , **ANIMALS** 1 , **ANIMALLOVERS** 1 , **THURSDAYTHOUGHTS** 1 , **HTTPS://TCO/YKQPBVP4VR** 1 , 
+**THERE’S** 1 , **MAN** 1 , **COULD’VE** 1 , **DONE** 1 , **HACKED** 1 , **BILLGATES** 1 , **ELONMUSKHACKED** 1 , **HTTPS://TCO/HOJFWRQWRS** 1 , 
  
 ## What this user tweeted
  
-He is so scared 🤭🤭
-#animal #animals #animallovers #ThursdayThoughts https://t.co/ykqPbvP4vr
+There’s only one man who could’ve done this #hacked #BillGates #elonmuskhacked https://t.co/hojFwrQwrs
  
-# Deependra1508USER INFO
-![image](http://pbs.twimg.com/profile_images/1275882387415502848/0bfVvA74_normal.jpg)
+# Karanpr65019936USER INFO
+![image](http://pbs.twimg.com/profile_images/1281178807555129344/6O7FS0JR_normal.jpg)
  
-`User ScreenName:` Deependra1508 
+`User ScreenName:` Karanpr65019936 
  
-`User chosen Name:` Deependra Singh Sengar 
+`User chosen Name:` Karanpreet Kaur Bains 
  
 `Is the User Verified?:` False 
  
-`User signup date?:` Wed Jun 24 12:25:08 +0000 2020 
+`User signup date?:` Thu Jul 09 10:49:51 +0000 2020 
  
-`User Description?:`  
+`User Description?:` A tall smol bean. Directioner. 18. 
  
-`Followers?: `3 
+`Followers?: `6 
  
-`Following?:` 23 
+`Following?:` 27 
  
 `User URL?:` None 
  
-`Location:` Indore, India 
+`Location:`  
  
-`Number of tweets extracted`  : 6 
+`Number of tweets extracted`  : 43 
  
-`Profile image:` http://pbs.twimg.com/profile_images/1275882387415502848/0bfVvA74_normal.jpg 
+`Profile image:` http://pbs.twimg.com/profile_images/1281178807555129344/6O7FS0JR_normal.jpg 
  
-`Number of tweets excluding replies:` 6 
+`Number of tweets excluding replies:` 45 
  
 
  
@@ -556,38 +664,119 @@ He is so scared 🤭🤭
  
 ## User Top tweeted words 
  
-**की** 3 , **@KANGANARANAUT_O:** 2 , **साजिश** 2 , **।** 2 , **CBI** 2 , **JUSTICEFORSUSHANTFORUM** 2 , **JUSTICE** 2 , **RT** 1 , **“STRIVE** 1 , **SUCCESS** 1 , **RATHER** 1 , **VALUE”** 1 , **ALBERT** 1 , **EINSTEIN** 1 , **THURSDAYTHOUGHTS** 1 , **HTTPS://TCO/HGXOLP0YNKRT** 1 , **@HINDUSTANIBHAUG:** 1 , **दोस्तों** 1 , **सुशांत** 1 , **सिंह** 1 , 
+**CHRISTUNIVERSITY** 18 , **STUDENTS** 16 , **EXAMS** 13 , **CHRIST** 10 , **UNIVERSITY** 7 , **GOING** 6 , **@NIDHIINDIATV:** 6 , **@DRASHWATHCN** 6 , **ONLINE** 5 , **CONDUCTING** 4 , **INTERMEDIATE** 4 , **SIR** 4 , **CONDUCT** 4 , **TWITTER** 3 , **JULY** 3 , **EVEN** 3 , **PROMOTE** 3 , **SEMESTER** 3 , **DECISION** 3 , **AGAINST** 3 , 
  
 ## What this user tweeted
  
-RT @kanganaranaut_O: “Strive not to be a success, but rather  to be of value.”
-- Albert Einstein
-#ThursdayThoughts https://t.co/hGxOlp0ynK
+RT @akmore114: All asian countries waking up and looking at Twitter hack. 
+#Hacked #Bitcoin https://t.co/08SpivOWgh
  
-# storybegins7USER INFO
-![image](http://pbs.twimg.com/profile_images/1276046043163971584/_gQcT6Pz_normal.jpg)
+# myself4LUSER INFO
+![image](http://pbs.twimg.com/profile_images/1282814787915849729/-I-3fqDL_normal.jpg)
  
-`User ScreenName:` storybegins7 
+`User ScreenName:` myself4L 
  
-`User chosen Name:` Anuradha 
+`User chosen Name:` expose hollywood 
  
 `Is the User Verified?:` False 
  
-`User signup date?:` Tue Jun 16 07:45:50 +0000 2020 
+`User signup date?:` Wed Jul 08 07:39:28 +0000 2020 
  
-`User Description?:` World has disappointed you the universe will not. Trust me on that. 
+`User Description?:` the simulation won’t stress me today 
+ 
+`Followers?: `9 
+ 
+`Following?:` 62 
+ 
+`User URL?:` None 
+ 
+`Location:` Toronto, Ontario 
+ 
+`Number of tweets extracted`  : 74 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1282814787915849729/-I-3fqDL_normal.jpg 
+ 
+`Number of tweets excluding replies:` 74 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**SOME** 8 , **BEING** 7 , **@BOBATL:** 7 , **@HUNCHO4N** 6 , **DON’T** 5 , **HOPE** 5 , **LIFE** 4 , **THEN** 4 , **TWEET** 3 , **YOU’RE** 3 , **REALLY** 3 , **I’M** 3 , **BODY** 3 , **MEN** 3 , **1** 3 , **2** 3 , **GO** 3 , **GOING** 3 , **WAYFAIR** 3 , **LOVE** 3 , 
+ 
+## What this user tweeted
+ 
+RT @shastaorange: *twitter gets #hacked*
+
+everyone rushing to tweet about it: https://t.co/7UoC3EA7pl
+ 
+# ThalesofMiletu3USER INFO
+![image](http://pbs.twimg.com/profile_images/1280708802187341829/YAS-zA7s_normal.jpg)
+ 
+`User ScreenName:` ThalesofMiletu3 
+ 
+`User chosen Name:` Thales of Miletus 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Wed Jul 08 00:52:19 +0000 2020 
+ 
+`User Description?:` The past is certain, the future however can be whatever you make it. 
  
 `Followers?: `0 
  
-`Following?:` 0 
+`Following?:` 2 
  
 `User URL?:` None 
  
 `Location:`  
  
+`Number of tweets extracted`  : 38 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1280708802187341829/YAS-zA7s_normal.jpg 
+ 
+`Number of tweets excluding replies:` 38 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**VPN** 4 , **MOST** 3 , **GO** 3 , **EVEN** 3 , **INTERNET** 3 , **PRIVACY** 3 , **TIME** 3 , **TOO** 2 , **SAY** 2 , **PEOPLE** 2 , **STILL** 2 , **THAN** 2 , **THEN** 2 , **WITHOUT** 2 , **MIND** 2 , **ALMOST** 2 , **NEED** 2 , **OS** 2 , **USE** 2 , **ISP:** 2 , 
+ 
+## What this user tweeted
+ 
+RT @utkarshkum10: Verified                                   You with
+Accounts.                               0 followers
+#hacked #Bitcoin…
+ 
+# Talk2RamDayalUSER INFO
+![image](http://pbs.twimg.com/profile_images/1283449022871506947/Ix0vn34o_normal.jpg)
+ 
+`User ScreenName:` Talk2RamDayal 
+ 
+`User chosen Name:` Inquisitive 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Wed Jul 15 16:01:12 +0000 2020 
+ 
+`User Description?:` Started from the bottom , Still Here 🙃 
+ 
+`Followers?: `0 
+ 
+`Following?:` 49 
+ 
+`User URL?:` None 
+ 
+`Location:` Greater Noida, India 
+ 
 `Number of tweets extracted`  : 2 
  
-`Profile image:` http://pbs.twimg.com/profile_images/1276046043163971584/_gQcT6Pz_normal.jpg 
+`Profile image:` http://pbs.twimg.com/profile_images/1283449022871506947/Ix0vn34o_normal.jpg 
  
 `Number of tweets excluding replies:` 2 
  
@@ -597,72 +786,31 @@ RT @kanganaranaut_O: “Strive not to be a success, but rather  to be of value.�
  
 ## User Top tweeted words 
  
-**LIFE** 2 , **TWO** 2 , **HERE?CAN** 1 , **SOMEONE** 1 , **PLEASE** 1 , **TELL** 1 , **ME?NOT** 1 , **HOUSE** 1 , **MEAN** 1 , **BASICALLY** 1 , **I'M** 1 , **GUILTY** 1 , **WO…** 1 , **HTTPS://TCO/5VZBLESVVMNOW** 1 , **TIMES** 1 , **WHOLE** 1 , **GENERATION** 1 , **CAUGHT** 1 , **BETWEEN** 1 , **AGES** 1 , 
+**HACKED** 1 , **LOOKS** 1 , **SAFE** 1 , **FUN** 1 , **PLATFORM** 1 , **INTELLECTUALS** 1 , **JOINSTWITTER🤓** 1 , **FIRST** 1 , **DAY** 1 , **TWITTER-** 1 , **😐** 1 , **HTTPS://TCO/ZZ8YWRSTQMWHATIF** 1 , **TURNS** 1 , **TRUE** 1 , **😳** 1 , **"MYLEADERRG"** 1 , **HTTPS://TCO/P8A1PJ6UV5** 1 , 
  
 ## What this user tweeted
  
-Now there are times when a whole generation is caught between two ages, two modes of life with a consequence that i… https://t.co/UrfM1agxrQ
+#Hacked
+This looks like a safe &amp; Fun platform for intellectuals. JoinsTwitter.🤓
+
+First Day on Twitter- 😐 https://t.co/zZ8YwRStQM
  
-# Child_Of_God_00USER INFO
-![image](http://pbs.twimg.com/profile_images/1276039172113879040/k29qqHJg_normal.jpg)
+# PJ48768152USER INFO
+![image](http://pbs.twimg.com/profile_images/1281643966614528002/i94nRoSs_normal.jpg)
  
-`User ScreenName:` Child_Of_God_00 
+`User ScreenName:` PJ48768152 
  
-`User chosen Name:` Child Of God 
+`User chosen Name:` 🦁PJ🦁 
  
 `Is the User Verified?:` False 
  
-`User signup date?:` Sat Jun 20 08:48:10 +0000 2020 
+`User signup date?:` Fri Jul 10 17:30:01 +0000 2020 
  
-`User Description?:` 🙇🏻‍♂️#मेरे__गुरुदेव__भगवान🙇🏻‍♂️                
-     
-     @SaintRampalJiM  is Supreme God 
+`User Description?:` NATIONALIST 
  
-`Followers?: `62 
+`Followers?: `23 
  
-`Following?:` 81 
- 
-`User URL?:` None 
- 
-`Location:`  
- 
-`Number of tweets extracted`  : 44 
- 
-`Profile image:` http://pbs.twimg.com/profile_images/1276039172113879040/k29qqHJg_normal.jpg 
- 
-`Number of tweets excluding replies:` 44 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**@SAINTRAMPALJIM:** 18 , **@SATLOKCHANNEL:** 11 , **||** 10 , **SANT** 9 , **RAMPAL** 9 , **JI** 9 , **MUSTLISTEN_SATSANG** 7 , **TV** 7 , **MAHARAJ** 7 , **योग** 7 , **SATSANG** 6 , **है** 6 , **EPISODE** 5 , **YOGA** 5 , **BHAKTIYOGA_BY_SAINTRAMPALJI** 5 , **भक्ति** 5 , **SINS** 4 , **NEWS** 4 , **का** 4 , **होता** 4 , 
- 
-## What this user tweeted
- 
-RT @SatlokChannel: God can forgive your sins - 
-Yajur Veda Adhyay 8 Mantra 13
-
-Almighty God Kabir can forgive the sins of His worshipper. H…
- 
-# pushparebbaUSER INFO
-![image](http://pbs.twimg.com/profile_images/1272943685991366657/d3qeu6RW_normal.jpg)
- 
-`User ScreenName:` pushparebba 
- 
-`User chosen Name:` Pushparebba 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Tue Jun 16 17:26:17 +0000 2020 
- 
-`User Description?:`  
- 
-`Followers?: `6 
- 
-`Following?:` 18 
+`Following?:` 169 
  
 `User URL?:` None 
  
@@ -670,9 +818,9 @@ Almighty God Kabir can forgive the sins of His worshipper. H…
  
 `Number of tweets extracted`  : 200 
  
-`Profile image:` http://pbs.twimg.com/profile_images/1272943685991366657/d3qeu6RW_normal.jpg 
+`Profile image:` http://pbs.twimg.com/profile_images/1281643966614528002/i94nRoSs_normal.jpg 
  
-`Number of tweets excluding replies:` 575 
+`Number of tweets excluding replies:` 316 
  
 
  
@@ -680,77 +828,39 @@ Almighty God Kabir can forgive the sins of His worshipper. H…
  
 ## User Top tweeted words 
  
-**नहीं** 112 , **के** 106 , **बिना** 87 , **की** 81 , **है** 64 , **में** 57 , **गुरु** 52 , **ज्ञान** 44 , **चीनी** 41 , **को** 39 , **घाटी** 39 , **पर** 38 , **गलवान** 38 , **सैनिकों** 38 , **से** 34 , **कर** 32 , **भारतीय** 32 , **@ASHARAMJIBAPU_** 31 , **भी** 30 , **ने** 30 , 
+**के** 55 , **की** 39 , **है** 34 , **में** 29 , **को** 27 , **से** 25 , **@JAIPURWALA1947:** 19 , **का** 17 , **@HOOMANSHASHANK:** 16 , **ने** 14 , **और** 13 , **जी** 12 , **BJP** 11 , **भी** 10 , **नहीं** 10 , **तो** 9 , **राजस्थान** 9 , **हो** 9 , **@VISHVENDRABTP:** 8 , **कर** 8 , 
  
 ## What this user tweeted
  
-RT @LokKalyanSetu: Thousands of salutations in the lotus feet of our #BelovedSadgurudevAsharamjiBapu who always inspires us to work selfles…
+RT @lil_Bulgi: Nahh u can't make this up 😂🤣#Hacked #twitterhacked https://t.co/wTLyZhzrbz
  
-# CarraraRae5USER INFO
-![image](http://pbs.twimg.com/profile_images/1275061469143498752/sGUIkBG8_normal.jpg)
+# TinasheVUSER INFO
+![image](http://pbs.twimg.com/profile_images/1283428389639028737/_apXa-uG_normal.jpg)
  
-`User ScreenName:` CarraraRae5 
+`User ScreenName:` TinasheV 
  
-`User chosen Name:` RaeCarrara 
+`User chosen Name:` Tinashe Victoria 
  
 `Is the User Verified?:` False 
  
-`User signup date?:` Sat Jun 20 03:44:59 +0000 2020 
+`User signup date?:` Wed Jul 15 15:48:01 +0000 2020 
  
-`User Description?:` Cluster B survivor, unwilling victim of family court corruption 
+`User Description?:` Fitness❤️❤️New friends💚💚
+Much Fun🤸🤸 
  
-`Followers?: `40 
+`Followers?: `3 
  
-`Following?:` 451 
+`Following?:` 55 
  
 `User URL?:` None 
  
 `Location:`  
  
-`Number of tweets extracted`  : 87 
+`Number of tweets extracted`  : 7 
  
-`Profile image:` http://pbs.twimg.com/profile_images/1275061469143498752/sGUIkBG8_normal.jpg 
+`Profile image:` http://pbs.twimg.com/profile_images/1283428389639028737/_apXa-uG_normal.jpg 
  
-`Number of tweets excluding replies:` 87 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**CHILD** 9 , **FAMILY** 9 , **PEOPLE** 8 , **COURT** 7 , **ABUSE** 7 , **US** 6 , **@MENDFAMILYCOURT:** 6 , **CASE** 5 , **NARCISSIST** 5 , **SOCIAL** 5 , **VIOLENCE** 5 , **WELL** 5 , **SOME** 4 , **KIDS** 4 , **ADHD** 4 , **BLACK** 4 , **PARENTAL** 4 , **ALIENATION** 4 , **CHILDREN** 4 , **SAY** 4 , 
- 
-## What this user tweeted
- 
-RT @4_ourchildren: Taken from the Safe Child Act, Barry Goldstein: 7. A parent shall not be penalized for making a good faith complaint abo…
- 
-# NISHANT74235040USER INFO
-![image](http://pbs.twimg.com/profile_images/1275778900140781568/bXGBIrE2_normal.jpg)
- 
-`User ScreenName:` NISHANT74235040 
- 
-`User chosen Name:` NISHANT SHARMA 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Mon Jun 22 13:15:52 +0000 2020 
- 
-`User Description?:` JEE ADVANCE ASPIRANT 
- 
-`Followers?: `4 
- 
-`Following?:` 7 
- 
-`User URL?:` None 
- 
-`Location:`  
- 
-`Number of tweets extracted`  : 198 
- 
-`Profile image:` http://pbs.twimg.com/profile_images/1275778900140781568/bXGBIrE2_normal.jpg 
- 
-`Number of tweets excluding replies:` 901 
+`Number of tweets excluding replies:` 7 
  
 
  
@@ -758,220 +868,12 @@ RT @4_ourchildren: Taken from the Safe Child Act, Barry Goldstein: 7. A parent s
  
 ## User Top tweeted words 
  
-**@DRRPNISHANK** 113 , **POSTPONENEETJEE** 77 , **@DG_NTA** 37 , **@HRDMINISTRY** 35 , **@KUSHALS52761450:** 32 , **POSTPONENEET** 27 , **@PMOINDIA** 24 , **@ADIT___7** 23 , **POSTPONENEETJEERT** 22 , **@NDTV** 21 , **NEET** 17 , **NOEXAMSINCOVID** 17 , **HEALTHOVERNEETJEE** 16 , **@PIB_INDIA** 16 , **EXAMS** 15 , **@NIKITAXSHA** 15 , **@RAVISHNDTV** 14 , **STUDENTS** 14 , **@HMOINDIA** 14 , **@MYGOVINDIA** 14 , 
+**HACKED** 3 , **GYMMOTIVATION** 3 , **GYMGIRL** 3 , **FORGET** 2 , **ACCOUNT** 2 , **SAY** 2 , **RT** 1 , **@ANNAAPP91838450:** 1 , **NIGHT** 1 , **AMERICA🇺🇸** 1 , **MAGA** 1 , **BADAZZPATRIOTSRUNAWAYS** 1 , **RISE** 1 , **WE'RE** 1 , **TRUMP'S** 1 , **MEDIA!NEVER** 1 , **DEMOCRAT** 1 , **⏬DID** 1 , **INCITED…RT** 1 , **@ASHISHJR07:** 1 , 
  
 ## What this user tweeted
  
-RT @OMGIndia1: "I have a purpose for your pain,
-A reason for your struggle,
-And a reward for your faithfulness.
-Trust me and don't give up"…
- 
-# BarlesKenyaUSER INFO
-![image](http://pbs.twimg.com/profile_images/1272464995545223168/BJQcFcd9_normal.jpg)
- 
-`User ScreenName:` BarlesKenya 
- 
-`User chosen Name:` BARLES PROPERTIES KENYA 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Mon Jun 15 08:56:37 +0000 2020 
- 
-`User Description?:` Barles Properties is a real estate management company, We offer affordable genuine plots & houses for sale and property management. 
- 
-`Followers?: `1 
- 
-`Following?:` 1 
- 
-`User URL?:` https://t.co/k2h5BaF6VE 
- 
-`Location:` Nairobi 
- 
-`Number of tweets extracted`  : 3 
- 
-`Profile image:` http://pbs.twimg.com/profile_images/1272464995545223168/BJQcFcd9_normal.jpg 
- 
-`Number of tweets excluding replies:` 3 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**COME** 2 , **GOOD** 2 , **STRENGTH** 1 , **GROWTH** 1 , **THROUGH** 1 , **CONTINUOUS** 1 , **EFFORT** 1 , **STRUGGLE** 1 , **LEAVE** 1 , **EXCUSES** 1 , **DOWN** 1 , **BUILD** 1 , **POSITIVE** 1 , **M…** 1 , **HTTPS://TCO/LTJBVKSKLY“HAPPINESS** 1 , **DOES** 1 , **DOING** 1 , **EASY** 1 , **WORK** 1 , **AFTERGLOW** 1 , 
- 
-## What this user tweeted
- 
-Strength and growth come only through continuous effort and struggle. Leave the excuses down and build a positive m… https://t.co/LtJbvKsKLY
- 
-# kharod_pariUSER INFO
-![image](http://pbs.twimg.com/profile_images/1275068241686102017/U7rHW7Lr_normal.jpg)
- 
-`User ScreenName:` kharod_pari 
- 
-`User chosen Name:` Pari Kharod 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Mon Jun 22 14:07:43 +0000 2020 
- 
-`User Description?:` exploring inner me💭 
- 
-`Followers?: `5 
- 
-`Following?:` 12 
- 
-`User URL?:` None 
- 
-`Location:` Junagad, India 
- 
-`Number of tweets extracted`  : 3 
- 
-`Profile image:` http://pbs.twimg.com/profile_images/1275068241686102017/U7rHW7Lr_normal.jpg 
- 
-`Number of tweets excluding replies:` 3 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**&LT;** 2 , **AGAINST** 2 , **HEALTHY** 1 , **RELATIONSHIP** 1 , **REQUIRES** 1 , **LOVE** 1 , **RESPECT** 1 , **LOYALTY** 1 , **THURSDAYTHOUGHTSBOLLYWOOD** 1 , **NEPOTISM** 1 , **CONGRESS** 1 , **GANDHI** 1 , **FAM** 1 , **DUTY** 1 , **AUDIENCE** 1 , **DECIDE** 1 , **DES…** 1 , **HTTPS://TCO/XBMAPXZTD0IT'S** 1 , **DEPRESSION** 1 , **DEEP** 1 , 
- 
-## What this user tweeted
- 
-A healthy relationship requires 
-Love &lt; Respect &lt; Loyalty #ThursdayThoughts
- 
-# TechnologySmar5USER INFO
-![image](http://pbs.twimg.com/profile_images/1273527274185166850/fy0kLIHT_normal.jpg)
- 
-`User ScreenName:` TechnologySmar5 
- 
-`User chosen Name:` Technology Smart Support 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Thu Jun 18 08:04:35 +0000 2020 
- 
-`User Description?:` Hello friends
-On this account you will get all types information related to technology 
- 
-`Followers?: `5 
- 
-`Following?:` 56 
- 
-`User URL?:` https://t.co/38W8IMOx4I 
- 
-`Location:` Allahabad, India 
- 
-`Number of tweets extracted`  : 19 
- 
-`Profile image:` http://pbs.twimg.com/profile_images/1273527274185166850/fy0kLIHT_normal.jpg 
- 
-`Number of tweets excluding replies:` 19 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**APP** 6 , **APPS** 4 , **CHINESE** 4 , **LOOK** 3 , **WITHOUT** 3 , **TIKTOK** 3 , **भी** 2 , **से** 2 , **HEY** 2 , **FRIENDS** 2 , **NEW** 2 , **VIDEO** 2 , **LEARN** 2 , **KA** 2 , **CREATE** 2 , **BAN** 2 , **INDIA** 2 , **TOP** 2 , **INSTAGRAM** 2 , **FACEBOOK** 2 , 
- 
-## What this user tweeted
- 
-#ThursdayThoughts
-Look back and be grateful,
-Look ahead and be hopeful,
-Look around and be helpful.✌️
- 
-# mugenicaUSER INFO
-![image](http://pbs.twimg.com/profile_images/1275803187598036994/DNCNttGZ_normal.jpg)
- 
-`User ScreenName:` mugenica 
- 
-`User chosen Name:` Mugenica 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Wed Jun 24 14:47:59 +0000 2020 
- 
-`User Description?:` The Lord is my portion// 
- 
-`Followers?: `118 
- 
-`Following?:` 237 
- 
-`User URL?:` None 
- 
-`Location:`  
- 
-`Number of tweets extracted`  : 5 
- 
-`Profile image:` http://pbs.twimg.com/profile_images/1275803187598036994/DNCNttGZ_normal.jpg 
- 
-`Number of tweets excluding replies:` 5 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**PSALMS** 3 , **GOD** 2 , **REFUGE** 1 , **STRENGTHAN** 1 , **EVER** 1 , **PRESENT** 1 , **HELP** 1 , **TROUBLE** 1 , **46:1IN** 1 , **MAKE** 1 , **BOAST** 1 , **DAY** 1 , **LONG** 1 , **PRAISE** 1 , **NAME** 1 , **FOREVER** 1 , **44:8** 1 , **THURSDAYTHOUGHTS** 1 , **THURSDAYMOTIVATION"SEEI** 1 , **LAY** 1 , 
- 
-## What this user tweeted
- 
-In God we make our boast all day long and we will praise your name forever.
-
-Psalms 44:8
-
-#ThursdayThoughts
-#ThursdayMotivation
- 
-# ManodnyaSUSER INFO
-![image](http://pbs.twimg.com/profile_images/1275094728959119361/J984gLSy_normal.jpg)
- 
-`User ScreenName:` ManodnyaS 
- 
-`User chosen Name:` Manodnya Suryawanshi 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Mon Jun 22 15:52:58 +0000 2020 
- 
-`User Description?:`  
- 
-`Followers?: `2 
- 
-`Following?:` 152 
- 
-`User URL?:` None 
- 
-`Location:`  
- 
-`Number of tweets extracted`  : 26 
- 
-`Profile image:` http://pbs.twimg.com/profile_images/1275094728959119361/J984gLSy_normal.jpg 
- 
-`Number of tweets excluding replies:` 26 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**के** 7 , **@ATC_IITJEE_NEET:** 6 , **EXAMS** 4 , **VICTORY** 4 , **CANCEL** 3 , **PLEASE** 3 , **आज** 3 , **GRATEFUL** 2 , **ANURAGTYAGICLASSES** 2 , **CBSE** 2 , **@ATC_IITJEE_NEET** 2 , **HAPPY** 2 , **ANNIVERSARY** 2 , **तो** 2 , **BOARD** 2 , **EXAM** 2 , **@RAJNATHSINGH:** 2 , **DAY** 2 , **PARADE** 2 , **MOSCOW** 2 , 
- 
-## What this user tweeted
- 
-RT @spruhavarad: Girl with a nose ring and grateful smile 😉😊
-#thursdaymorning #thursdayvibes #ThursdayThoughts https://t.co/30Pva4FbJM
+RT @ashishjr07: Everyone after watching Billionaire's Twitter Account gettin #Hacked 
+#Bitcoin https://t.co/faFQglDiQ6RT @chimdi__: Imagine the money the hackers would have made if they hacked Rihanna's account. All they need to say is ' send your cash and…RT @lottielilx: me going to sleep knowing i have two followers so i won’t get #hacked https://t.co/3QdAB188TM
  
 ### CONCLUSION & EXTERNAL ANALYSIS
 
